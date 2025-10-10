@@ -1,4 +1,3 @@
-#!/bin/bash
-$ ./0-current_working_directory
+$ bin./0-current_working_directory
 /basics
 $
