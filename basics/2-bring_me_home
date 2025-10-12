@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home
+cd "$(getent passwd $(whoami) | cut -d: -f6)"
