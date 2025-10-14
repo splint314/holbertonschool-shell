@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+wrx /tmp/hello 
+chmod 744 /tmp/hello 
