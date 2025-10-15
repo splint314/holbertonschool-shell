@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 700 betty
+chown betty hello
